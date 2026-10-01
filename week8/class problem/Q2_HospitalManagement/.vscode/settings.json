@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "class problem/Q1_CollegeManagement",
+        "class problem/Q2_HospitalManagement",
+        "class problem/Q3_OnlineExamination",
+        "class problem/Q4_BankingApplication",
+        "class problem/Q5_TrafficManagement"
+    ]
+}
